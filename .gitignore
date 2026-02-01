@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.local
+
+# Django
+db.sqlite3
+/media/
+/staticfiles/
+
+# Byte-compiled / optimized
+*.pyc
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
